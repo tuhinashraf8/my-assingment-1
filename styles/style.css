@@ -183,7 +183,7 @@ margin: 40px auto;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 150px;
+    
 }
 .targets-continar{
     display: flex;
@@ -243,4 +243,61 @@ margin: 40px auto;
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 700;  
+}
+.i-need-support{
+    border: 2px solid red;
+    width: 1140px;
+    height: 777px;
+}
+.support-body{
+    background-image: url(/B10A1-Challenge-Begins-main/assets/handshake.jpg);
+    background-size: cover;
+    max-width: 1140px;
+    height: 250px;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    padding: 60px;
+    border-radius: 16px;
+    background-color: rgba(13, 19, 33, 0.5);
+    background-blend-mode: overlay;
+    margin-top: 25px;
+    
+}
+.support-body h1{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700; 
+    
+}
+.support-body p{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+
+opacity: 0.7;
+}
+.input{
+    
+    width: 548px;
+    height: 57px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+.input-btn{
+    width: 120px;
+    height: 58px;
+    width: 120px;
+    height: 58px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
 }
