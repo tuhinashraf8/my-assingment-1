@@ -9,7 +9,7 @@ main{
     margin: 0%auto;
 }
 .top-banner{
-    background-image: url(/B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+    background-image: url(../B10A1-Challenge-Begins-main/assets/Hero-bg.png);
     width: 1440px;
     height: 652px;
     background-size: cover;
@@ -250,7 +250,7 @@ margin: 40px auto;
     height: 777px;
 }
 .support-body{
-    background-image: url(/B10A1-Challenge-Begins-main/assets/handshake.jpg);
+    background-image: url(../B10A1-Challenge-Begins-main/assets/handshake.jpg);
     background-size: cover;
     max-width: 1140px;
     height: 250px;
