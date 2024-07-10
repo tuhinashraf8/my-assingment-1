@@ -185,8 +185,10 @@ margin: 40px auto;
     height: 614px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: center; 
+}
+.youtube{
+    border-radius: 16px;
 }
 .targets-continar{
     display: flex;
